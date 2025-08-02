@@ -28,7 +28,3 @@ This project performs sentiment classification on Persian text comments related 
 - CountVectorizer
 - Regex for text normalization
 
----
-
-## 📁 Repository Structure
-
